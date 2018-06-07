@@ -1,4 +1,3 @@
-# Roll_a_Ball
 Roll a Ball
 ============
 Roll a Ball은 공을 굴려 게임 상의 모든 pick up을 얻는 게임입니다.

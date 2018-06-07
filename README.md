@@ -9,4 +9,10 @@ pick up을 하나 획득할 때마다 좌측상단의 점수가 1점씩 올라�
 
 
 ![텍스트](http://drive.google.com/uc?export=view&id=1YocnrSBz3CxZQ2rvv_b0Gnh9dRKp7_0V)
-게임 시작 시 
+게임 시작 시
+
+![텍스트](http://drive.google.com/uc?export=view&id=1z1H_ccU0dtOOsG5B8jsg8xTS1sJmFApM)
+플레이 중
+
+![텍스트](http://drive.google.com/uc?export=view&id=1v4B9kxKoGvmI1Bca1hhlChz_i9R86A45)
+모든 pick up을 획득 했을 때
